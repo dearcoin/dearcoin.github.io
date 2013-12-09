@@ -1,2 +1,3 @@
-dearcoin.github.com
+dearcoin.github.io
 ===================
+Dearcoin on Github
